@@ -1,0 +1,56 @@
+
+body{
+    background-color: #d8c39c;
+    font-family: "Times New Roman", sans-serif;
+}
+h1{
+  text-shadow: 2px 3px yellow;
+  color: red;
+  text-align: center;
+}
+
+
+
+h2{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section{
+    background-color: turquoise;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 5px solid red;
+    text-shadow: 1px 2px yellow;
+}
+
+
+ul{
+    font-size: 16px;
+    
+}
+il{
+    bottom: auto;
+}
+
+ img{
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    border:5px solid red;
+    box-shadow:0 4px 10px rgba(0,0,0,0.3);
+    object-fit:cover;
+     
+   
+}
+.profil{
+  text-align: center;
+}
+
